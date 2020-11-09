@@ -107,4 +107,4 @@ venv.bak/
 .vscode/
 
 # ignoring docs folder, we are maintaining it on the documentation branch
-docs
+docs/**
